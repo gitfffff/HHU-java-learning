@@ -1,5 +1,4 @@
 # HHU-java-learning
-Java course notes for HHU students.
 这里是我在HHU大一下学习Java课程期间整理的个人笔记。虽然存在疏漏和不完善的地方（甚至可以说是千疮百孔），但希望这些笔记可以对即将学习Java的学弟学妹们有一些微小的指引和帮助。
 
 ## 内容概述
